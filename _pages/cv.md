@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc. in Biological Science, Edinburgh Napier University, 2015
+* MSc. in Infection Biology, Glasgow University, 2016
+* Ph.D in Microbiology, Haller Lab, TUM, 2021 (expected)
 
 Work experience
 ======
 * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Edinburgh Napier University
+  * Characterisation of VRE and MRSA in Scottish beach sand and sea water 
+  * Supervisor: Dr Donald Morrison
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* November 2015- May 2016 Biology Tutor
+  * Clever Tutors Glasgow
+  * One-to-one tutoring of High school level Biology students
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* NGS
+* Microbiology
+* Bioinformatics
+* Python
+* R
+* Linux
 
 Publications
 ======
