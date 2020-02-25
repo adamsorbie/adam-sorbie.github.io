@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Unix_shell_course"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/
+venue: "TUM, ZIEL"
+date: 2020-02-14
+location: "Freising, Germany"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+[Introduction to the Unix shell](https://github.com/adamsorbie/unix_shell_course-2020-02-14/blob/master/README.md) 
 ======
+Taught a 1/2 day course introducing the Unix shell and Bash scripting.
 
-Heading 2
-======
-
-Heading 3
-======
