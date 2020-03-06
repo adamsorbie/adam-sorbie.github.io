@@ -9,8 +9,8 @@ author_profile: true
 
 Experimental Immunology and Pathology
 
-Lab practical course of the Chair of Nutrition and Immunology. Taught the microbiology section, 
-teaching students the basics of culturing and enumerating gut microorganisms. 
+Lab practical course of the Chair of Nutrition and Immunology. Took part in teaching the microbiology 
+part of the course, teaching students the basics of culturing and enumerating gut microorganisms. 
 
 **February 2020**
 
