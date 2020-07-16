@@ -5,6 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
+**July 2020**
+
+[Introduction to HPC](https://github.com/adamsorbie/intro-to-HPC-course-2020)
+
+Led a 1/2 course introducing HPC systems and working in a cluster environment. 
+
 **March 2019** & **March 2020**
 
 Experimental Immunology and Pathology
