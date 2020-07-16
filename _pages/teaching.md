@@ -9,7 +9,7 @@ author_profile: true
 
 [Introduction to HPC](https://github.com/adamsorbie/intro-to-HPC-course-2020)
 
-Led a 1/2 course introducing HPC systems and working in a cluster environment. 
+Led a 1/2 day course introducing HPC systems and working in a cluster environment. 
 
 **March 2019** & **March 2020**
 
