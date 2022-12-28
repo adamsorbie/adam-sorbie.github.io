@@ -10,7 +10,7 @@ locale                   : "en-GB"
 title                    : "Adam Sorbie"
 title_separator          : "-"
 name                     : &name "Adam Sorbie"
-description              : &description "PhD Student in the Haller Lab at TU Munich"
+description              : &description "Research associate in the Benakis lab at ISD Munich"
 url                      : https://adamsorbie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adamsorbie.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Adam Sorbie"
   avatar           : "profile2.png"
-  bio              : "PhD Student in the Haller Lab at TU Munich"
+  bio              : "Research associate in the Benakis lab at ISD Munich"
   location         : "Munich, Germany"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=adam+sorbie"
   googlescholar    : "https://scholar.google.de/citations?user=gZu0JE4AAAAJ&hl=en"
-  email            : "mailto:adam.sorbie@tum.de"
+  email            : "mailto:adam.sorbie@med.uni-muenchen.de"
   researchgate     : "https://www.researchgate.net/profile/Adam_Sorbie"
   uri              :
   bitbucket        :
@@ -103,6 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/adam-sorbie-232053b9/"
+  mastodon         : "@adamsorbie@fediscience.org"
   orcid            : "https://orcid.org/0000-0002-3330-4612"
   pinterest        :
   soundcloud       :
