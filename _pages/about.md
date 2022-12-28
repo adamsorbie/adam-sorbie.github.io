@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a PhD Student in the Haller lab at TU Munich. We study the role of the microbiome and cell stress in chronic inflammatory diseases such as Crohn's Disease and Colorectal cancer (CRC). 
+I am currently working in the [Benakis lab](https://www.isd-research.de/our-labs/benakis-lab/0b29bdd23b1f63b4) at the Institute for Stroke and Dementia research, LMU Klinikum Munich. We study the gut-brain axis and in particular, the involvement of the gut microbiota in stroke and stroke outcome. Previously, I worked on my PhD in the Haller lab at TU Munich, where my research focused mainly on identifying microbial factors driving colorectal cancer.  
 
-My own research focuses mainly on identifying microbial factors driving CRC, using a novel model of [colonic tumorogenesis](https://www.gastrojournal.org/article/S0016-5085(18)34816-9/fulltext?referrer=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F30063920-activated-atf6-induces-intestinal-dysbiosis-and-innate-immune-response-to-promote-colorectal-tumorigenesis%2F) driven by the UPR signal transducer ATF6. To understand the role of the microbiome in ATF6-driven tumorigenesis, I am utilising a combination of next-generation sequencing and unargeted metabolomics, as well as more basic methods, to identify functional mechanisms underlying disease. 
+During my PhD, I developed a keen interest in Bioinformatics and the analysis of large and complex datasets. Combining this passion for compuational biology with my background in the wet lab I am currently utilising a combination of next-generation sequencing, metabolomics, as well as more basic microbiological methods, to identify functional mechanisms modulating stroke outcome. 
 
-During my PhD, I have also developed a keen interest in Bioinformatics and the analysis of large and complex datasets. Through a combination of courses and self-teaching, I have learned to use the command line and am comfortable in both Python and R. Moreover, 
-I am applying what I have learned to generate additional insights into the data generated. 
+In addition to my research, I am also enthusiastic about promoting open and reproducible science. We recently published a set of [guidelines](https://www.cell.com/iscience/fulltext/S2589-0042(22)00268-1) to conduct stroke microbiota studies in a robust and reproducible manner, providing an easy-to-use, freely-available [analysis pipeline](https://github.com/adamsorbie/Stroke_Microbiota_reproducibility) to allow researchers who are inexperienced in microbiota analysis to analyse their own data.  
 
 Outside of the lab I enjoy exploring my adopted home, trying and learning new things and playing guitar. 
