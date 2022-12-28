@@ -13,7 +13,7 @@ Education
 ======
 * BSc. in Biological Science, Edinburgh Napier University, 2015
 * MSc. in Infection Biology, Glasgow University, 2016
-* Ph.D in Microbiology, Haller Lab, TUM, 2021 (expected)
+* Ph.D in Microbiology, Haller Lab, TUM, 2023 (expected)
 
 Work experience
 ======
