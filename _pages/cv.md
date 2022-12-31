@@ -15,16 +15,19 @@ Education
 * MSc. in Infection Biology, Glasgow University, 2016
 * Ph.D in Microbiology, Haller Lab, TUM, 2023 (expected)
 
-Work experience
+Experience
 ======
+* April 2021 - Present: Research Associate 
+  * Institute for Stroke and Dementia Research, LMU Klinikum
+  * Microbiota in stroke and stroke outcome 
+ 
 * Summer 2015: Research Assistant
   * Edinburgh Napier University
   * Characterisation of VRE and MRSA in Scottish beach sand and sea water 
-  * Supervisor: Dr Donald Morrison
 
-* November 2015- May 2016 Biology Tutor
+* November 2015 - May 2016: Biology Tutor
   * Clever Tutors Glasgow
-  * One-to-one tutoring of High school level Biology students
+  * One-to-one tutoring of high school level biology 
   
 Skills
 ======
