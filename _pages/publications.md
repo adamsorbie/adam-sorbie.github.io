@@ -9,7 +9,6 @@ You can also find my articles on <u><a href="https://scholar.google.de/citations
 
 ## 2022 
 
-
 __Protocol for microbiota analysis of a murine stroke model__
 **Adam Sorbie**, Rosa Delgado Jiménez, Monica Weiler Corinne Benakis
 _STAR Protocols 2022; in press_
