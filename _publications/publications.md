@@ -7,11 +7,13 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.de/citations?user=gZu0JE4AAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
-## 2022 
+## 2023
 
 __Protocol for microbiota analysis of a murine stroke model__
 **Adam Sorbie**, Rosa Delgado Jiménez, Monica Weiler Corinne Benakis
-_STAR Protocols 2022; in press_
+_STAR Protocols 2023; 4(1); 101969_
+
+## 2022
 
 __[Increasing Transparency and Reproducibility in Stroke-Microbiota Research: A Toolbox for Microbiota Analysis](https://www.cell.com/iscience/fulltext/S2589-0042(22)00268-1)__
 **Adam Sorbie**, Rosa Delgado Jiménez, Corinne Benakis
