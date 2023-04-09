@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Talks"
+permalink: /talks/
+author_profile: true
+---
+
 ## Oral presentations 
 
 UEG Week 2021, Online 
