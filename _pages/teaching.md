@@ -4,6 +4,11 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+**February 2023** 
+
+[Neuroimmunolgical methods in stroke research](https://github.com/adamsorbie/Neuroimmunological-methods-in-stroke-research-course)
+
+Lab practical course at the Institute for Stroke and Dementia Research. Led the microbiology part of the course as well as an introduction to the R programming language. 
 
 **July 2020**
 
